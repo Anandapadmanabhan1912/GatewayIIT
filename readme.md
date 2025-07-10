@@ -139,4 +139,10 @@ http://localhost:3000
 ```
 
 ## Demo
-https://youtu.be/MkjAth8rsC0
+
+
+<p align="center">
+  <a href="https://youtu.be/MkjAth8rsC0">
+    <img src="https://img.youtube.com/vi/your_video_id/0.jpg" alt="Demo Video" />
+  </a>
+</p>
