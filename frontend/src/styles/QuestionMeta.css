@@ -1,0 +1,16 @@
+.meta-container {
+  display: flex;
+  justify-content: space-around;
+  padding: 10px 15px;
+  margin: 15px 0;
+  background-color: #f5f5f5;
+  border-left: 5px solid #007acc;
+  border-radius: 5px;
+  font-family: 'Segoe UI', sans-serif;
+  font-size: 14px;
+}
+
+.meta-item {
+  flex: 1;
+  text-align: center;
+}

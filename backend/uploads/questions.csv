@@ -1,0 +1,406 @@
+Q. No,Type,Question Text,Image Path
+1,MCQ,"Q.1 
+ “Going by the _________ that many hands make light work, the school _______ involved 
+ all the students in the task.” 
+The words that best fill the blanks in the above sentence are (A) principle, principal 
+(B) principal, principle (C) principle, principle 
+(D) principal, principal",static/questions\q001_MCQ_p1.png
+2,MCQ,"Q.2 
+ “Her _______ should not be confused with miserliness; she is ever willing to assist those in 
+ need.” 
+The word that best fills the blank in the above sentence is (A) cleanliness 
+(B) punctuality 
+(C) frugality 
+(D) greatness",static/questions\q002_MCQ_p1.png
+3,MCQ,"Q.3 
+ Seven machines take 7 minutes to make 7 identical toys. At the same rate, how many 
+minutes would it take for 100 machines to make 100 toys? (A) 1 
+(B) 7 
+(C) 100 
+(D) 700",static/questions\q003_MCQ_p1.png
+4,MCQ,"Q.4 
+ A rectangle becomes a square when its length and breadth are reduced by 10 m and 5 m, 
+respectively. During this process, the rectangle loses 650 m2 of area. What is the area of the 
+original rectangle in square meters? (A) 1125 
+(B) 2250 
+(C) 2924 
+(D) 4500",static/questions\q004_MCQ_p1.png
+5,MCQ,"Q.5 
+ A number consists of two digits. The sum of the digits is 9. If 45 is subtracted from the 
+number, its digits are interchanged. What is the number? (A) 63 
+(B) 72 
+(C) 81 
+(D) 90 Q. 6 – Q. 10 carry two marks each. 
+Q.6 
+ For integers 𝑎, 𝑎? and 𝑎?, what would be the minimum and maximum values respectively of 
+𝑎 + 𝑎? + 𝑎? if log |𝑎| + log |𝑎?| + log |𝑎?| = 0? (A) -3 and 3 
+(B) -1 and 1 
+(C) -1 and 3 
+(D) 1 and 3 ",static/questions\q005_MCQ_p1.png
+7,MCQ,"Q.7 
+ Given that 𝑎 and 𝑎? are integers and 𝑎 + 𝑎2 𝑎?3 is odd, which one of the following 
+statements is correct? (A) 𝑎 and 𝑎? are both odd 
+(B) 𝑎 and 𝑎? are both even (C) 𝑎 is even and 𝑎? is odd 
+(D) 𝑎 is odd and 𝑎? is even",static/questions\q007_MCQ_p2.png
+8,MCQ,"Q.8 
+ From the time the front of a train enters a platform, it takes 25 seconds for the back of the 
+train to leave the platform, while travelling at a constant speed of 54 km/h. At the same 
+speed, it takes 14 seconds to pass a man running at 9 km/h in the same direction as the 
+train. What is the length of the train and that of the platform in meters, respectively? (A) 210 and 140 
+(B) 162.5 and 187.5 (C) 245 and 130 
+(D) 175 and 200",static/questions\q008_MCQ_p2.png
+9,MCQ,"Q.9 
+ Which of the following functions describe the graph shown in the below figure?   (A) 𝑥? = ||𝑥| + 1| − 2 
+(B) 𝑥? = ||𝑥| − 1| − 1 (C) 𝑥? = ||𝑥| + 1| − 1 
+(D) 𝑥? = ||𝑥 − 1| − 1|",static/questions\q009_MCQ_p2.png
+10,MCQ,"Q.10  Consider the following three statements: (i) 
+Some roses are red. (ii) 
+All red flowers fade quickly. (iii) 
+Some roses fade quickly. Which of the following statements can be logically inferred from the above statements? (A) If (i) is true and (ii) is false, then (iii) is false. 
+(B) If (i) is true and (ii) is false, then (iii) is true. 
+(C) If (i) and (ii) are true, then (iii) is true.  
+(D) If (i) and (ii) are false, then (iii) is false.   END OF THE QUESTION PAPER  <image: DeviceRGB, width: 401, height: 390, bpc: 8>",static/questions\q010_MCQ_p2.png
+1,MCQ,"Q.1 
+ Four red balls, four green balls and four blue balls are put in a box. Three balls are pulled out 
+of the box at random one after another without replacement. The probability that all the three 
+balls are red is (A) 1/72  
+(B) 1/55 
+(C)  1/36 
+(D)  1/27  Q.2 The rank of the matrix 
+   
+    
+
+ 
+ 1
+3
+7 1
+1
+1 1
+1
+4 is  (A) 1 
+(B) 2 
+(C) 3   
+(D)  4 ",static/questions\q001_MCQ_p3.png
+3,MCQ,"Q.3 
+ According to the Mean Value Theorem, for a continuous function
+( )
+f x in the interval [ , ],
+a b there exists a value  in this interval such that 
+( ) b a f x dx  (A) 
+( )(
+)
+f
+b a
+
+ 
+(B) ( )(
+)
+f b
+ a (C) ( )(
+f a b )
+
+ 
+(D) 0 ",static/questions\q003_MCQ_p3.png
+4,MCQ,"Q.4 
+F ( )
+F z  is a function of the complex variable z
+x
+iy
+
+
+ given by  𝐹(𝑥?) = 𝑖 𝑥? + 𝑘 𝑅𝑑?(𝑥?) + 𝑖 𝐼𝑚(𝑥?).  For what value of k  will 
+( )
+F z satisfy the Cauchy-Riemann equations? (A) 0 
+(B) 1 
+(C)  1
+  
+(D)  y ",static/questions\q004_MCQ_p3.png
+5,MCQ,"Q.5 
+ A bar of uniform cross section and weighing 100 N is held horizontally using two massless 
+and inextensible strings S1 and S2 as shown in the figure.  The tensions in the strings are (A) 
+1T  = 100 N and 
+2T  = 0 N 
+(B) 
+1T  = 0 N   and 
+2T  = 100 N (C) 
+1T  = 75 N   and 
+2T  = 25 N 
+(D) 
+1T  = 25 N and 
+2T  = 75 N <image: DeviceGray, width: 351, height: 169, bpc: 8>",static/questions\q005_MCQ_p3.png
+6,MCQ,"Q.6 
+ If 
+1
+  and 
+3
+ are the algebraically largest and smallest principal stresses respectively, the value of the maximum shear stress is (A) 1+ 3 2
+ 
+(B) 1− 3 2
+ 
+(C)  √ 1+ 3 2
+ 
+(D)  √ 1− 3 2 ",static/questions\q006_MCQ_p4.png
+7,MCQ,"Q.7 
+ The equation of motion for a spring-mass system excited by a harmonic force is cos(
+),
+M x
+Kx
+F
+t
+
+ <image: Indexed(1,DeviceRGB), width: 2, height: 2, bpc: 1>   where M is the mass, K  is the spring stiffness, F is the force amplitude and  is the angular 
+frequency of excitation. Resonance occurs when  is equal to (A) 
+M
+K  
+(B) 1 2 MK
+
+ 
+(C)  2
+MK
+
+ 
+(D)  
+K
+M ",static/questions\q007_MCQ_p4.png
+8,MCQ,"Q.8 
+ For an Oldham coupling used between two shafts, which among the following statements 
+are correct? I. 
+Torsional load is transferred along shaft axis. II. 
+A velocity ratio of 1:2 between shafts is obtained without using gears. III. 
+Bending load is transferred transverse to shaft axis. IV. 
+Rotation is transferred along shaft axis.  (A) I and III 
+(B) I and IV 
+(C)  II and III 
+(D)  II and IV ",static/questions\q008_MCQ_p4.png
+9,MCQ,"Q.9 
+ For a two-dimensional incompressible flow field given by 
+
+yj
+Axi
+u
+ˆ
+ˆ 
+
+, where
+A0
+, which one of the following statements is FALSE? (A) It satisfies continuity equation. 
+(B) It is unidirectional when 
+x0
+and
+y
+. (C) Its streamlines are given by 
+x y
+. (D) It is irrotational. ",static/questions\q009_MCQ_p4.png
+10,MCQ,"Q.10  Which one of the following statements is correct for a superheated vapour? (A) Its pressure is less than the saturation pressure at a given temperature. 
+(B) Its temperature is less than the saturation temperature at a given pressure. 
+(C) Its volume is less than the volume of the saturated vapour at a given temperature. 
+(D) Its enthalpy is less than the enthalpy of the saturated vapour at a given pressure. ",static/questions\q010_MCQ_p4.png
+11,MCQ,"Q.11  In a linearly hardening plastic material, the true stress beyond initial yielding (A) increases linearly with the true strain 
+(B) decreases linearly with the true strain 
+(C) first increases linearly and then decreases linearly with the true strain 
+(D) remains constant ",static/questions\q011_MCQ_p5.png
+12,MCQ,"Q.12  The type of weld represented by the shaded region in the figure is   (A) groove  
+(B) spot  
+(C)  fillet  
+(D)  plug ",static/questions\q012_MCQ_p5.png
+13,MCQ,"Q.13  Using the Taylor’s tool life equation with exponent 
+n 0.5,
+ if the cutting speed is reduced by 50%, the ratio of new tool life to original tool life is (A)  4 
+(B)  2 
+(C)  1 
+(D)  0.5 ",static/questions\q013_MCQ_p5.png
+14,MCQ,Q.14  A grinding ratio of 200 implies that the (A) grinding wheel wears 200 times the volume of the material removed (B) grinding wheel wears 0.005 times the volume of the material removed (C) aspect ratio of abrasive particles used in the grinding wheel is 200 (D) ratio of volume of abrasive particle to that of grinding wheel is 200 ,static/questions\q014_MCQ_p5.png
+15,MCQ,"Q.15  Interpolator in a CNC machine (A) controls spindle speed 
+(B) coordinates axes movements 
+(C) operates  tool changer 
+(D) commands canned cycle ",static/questions\q015_MCQ_p5.png
+16,MCQ,"Q.16  The time series forecasting method that gives equal weightage to each of the m most recent observations is (A) Moving average method 
+(B) Exponential smoothing with linear trend (C) Triple Exponential smoothing  
+(D) Kalman Filter  <image: DeviceRGB, width: 145, height: 169, bpc: 8>",static/questions\q016_MCQ_p5.png
+17,MCQ,"Q.17  The number of atoms per unit cell and the number of slip systems, respectively, for a face- centered cubic (FCC) crystal are (A) 3, 3  
+(B) 3, 12 
+(C)  4, 12 
+(D)  4, 48 ",static/questions\q017_MCQ_p6.png
+18,MCQ,"Q.18  A six-faced fair dice is rolled five times. The probability (in %) of obtaining “ONE” at least four times is (A) 33.3 
+(B) 3.33 
+(C)  0.33 
+(D)  0.0033 ",static/questions\q018_MCQ_p6.png
+19,NAT,"Q.19  A steel column of rectangular section (15 mm × 10 mm) and length 1.5 m is simply supported at both ends. Assuming modulus of elasticity, E = 200 GPa for steel, the critical axial load 
+(in kN) is ____ (correct to two decimal places).  ",static/questions\q019_NAT_p6.png
+21,NAT,"Q.21  If the wire diameter of a compressive helical spring is increased by 2%, the change in spring stiffness (in %) is _____ (correct to two decimal places). ",static/questions\q021_NAT_p6.png
+22,NAT,"Q.22  A flat plate of width L = 1 m is pushed down with a velocity U = 0.01 m/s towards a wall resulting in the drainage of the fluid between the plate and the wall as shown in the figure. 
+Assume two-dimensional incompressible flow and that the plate remains parallel to the wall. The average velocity, uavg of the fluid (in m/s) draining out at the instant shown in the figure 
+is _____________(correct to three decimal places).   ",static/questions\q022_NAT_p6.png
+23,NAT,"Q.23  An ideal gas undergoes a process from state 1 (
+1T = 300 K, 
+1p  = 100 kPa) to state 2 (
+2T  = 600 K, 
+2p  = 500 kPa).  The specific heats of the ideal gas are : cp = 1 kJ/kg-K and cv = 0.7 kJ/kg-K. The change in specific entropy of the ideal gas from state 1 to state 2 (in 
+kJ/kg-K) is ___________(correct to two decimal places). ",static/questions\q023_NAT_p7.png
+24,NAT,"Q.24  For a Pelton wheel with a given water jet velocity, the maximum output power from the Pelton wheel is obtained when the ratio of the bucket speed to the water jet speed  
+is _______ (correct to two decimal places). ",static/questions\q024_NAT_p7.png
+25,NAT,Q.25  The height (in mm) for a 125 mm sine bar to measure a taper of 27 ̊ 32 on a flat work piece is _______ (correct to three decimal places). ,static/questions\q025_NAT_p7.png
+26,MCQ,"Q.26  Let X1, X2 be two independent normal random variables with means µ1, µ2 and standard deviations 1, 2, respectively. Consider Y = X1 – X2; µ1 = µ2 =1, 1 = 1, 2 = 2. Then, (A) Y is normally distributed with mean 0 and variance 1 
+(B) Y is normally distributed with mean 0 and variance 5 
+(C) Y has mean 0 and variance 5, but is NOT normally distributed 
+(D) Y has mean 0 and variance 1, but is NOT normally distributed ",static/questions\q026_MCQ_p8.png
+27,MCQ,"Q.27  The value of the integral ∯ 𝑟⃗ ∙ 𝑚?⃗⃗ 𝑑𝑅? 𝑆  over the closed surface S bounding a volume V, where 
+i
+j
+k
+r
+x
+y
+y
+
+
+ <image: Indexed(1,DeviceRGB), width: 2, height: 2, bpc: 1> <image: Indexed(1,DeviceRGB), width: 2, height: 2, bpc: 1> is the position vector and n <image: Indexed(1,DeviceRGB), width: 2, height: 2, bpc: 1> is the normal to the surface S, is (A)  V 
+(B)  2V 
+(C)  3V 
+(D)  4V ",static/questions\q027_MCQ_p8.png
+28,MCQ,"Q.28  A point mass is shot vertically up from ground level with a velocity of 4 m/s at time, 
+t 0
+. It loses 20% of its impact velocity after each collision with the ground.  Assuming that the 
+acceleration due to gravity is 10 m/s2 and that air resistance is negligible, the mass stops 
+bouncing and comes to complete rest on the ground after a total time (in seconds) of (A) 1 
+(B)  2 
+(C)  4 
+(D)    <image: DeviceRGB, width: 183, height: 44, bpc: 8>",static/questions\q028_MCQ_p8.png
+29,MCQ,"Q.29  The state of stress at a point, for a body in plane stress, is shown in the figure below. If the minimum principal stress is 10 kPa, then the normal stress
+y
+ (in kPa) is      (A) 9.45 
+(B) 18.88 
+(C)  37.78 
+(D)  75.50 ",static/questions\q029_MCQ_p9.png
+30,MCQ,"Q.30  An epicyclic gear train is shown in the figure below. The number of teeth on the gears A, B and D are 20, 30 and 20, respectively. Gear C has 80 teeth on the inner surface and 100 teeth 
+on the outer surface. If the carrier arm AB is fixed and the sun gear A rotates at 300 rpm in 
+the clockwise direction, then the rpm of D in the clockwise direction is <image: DeviceRGB, width: 319, height: 250, bpc: 8>  (A) 240 
+(B) 240 
+(C)  375 
+(D)  375  <image: DeviceRGB, width: 381, height: 314, bpc: 8>",static/questions\q030_MCQ_p9.png
+31,MCQ,"Q.31  A carpenter glues a pair of cylindrical wooden logs by bonding their end faces at an angle of 
+30
+
+
+
+ as shown in the figure.   The glue used at the interface fails if  
+      Criterion 1: the maximum normal stress exceeds 2.5 MPa. 
+      Criterion 2: the maximum shear stress exceeds 1.5 MPa. 
+Assume that the interface fails before the logs fail. When a uniform tensile stress of 4 MPa 
+is applied, the interface (A) fails only because of criterion 1 (B) fails only because of criterion 2 (C) fails because of both criteria 1 and 2 (D) does not fail ",static/questions\q031_MCQ_p10.png
+32,MCQ,"Q.32  A self-aligning ball bearing has a basic dynamic load rating (C10, for 106 revolutions) of 35 kN. If the equivalent radial load on the bearing is 45 kN, the expected life (in 106 
+revolutions) is (A) below 0.5 
+(B) 0.5 to 0.8 
+(C)  0.8 to 1.0 
+(D)  above 1.0 ",static/questions\q032_MCQ_p10.png
+33,MCQ,"Q.33  A tank open at the top with a water level of 1 m, as shown in the figure, has a hole at a height of 0.5 m. A free jet leaves horizontally from the smooth hole. The distance X (in m) where 
+the jet strikes the floor is (A) 0.5 
+(B) 1.0 
+(C)  2.0 
+(D)  4.0  <image: DeviceGray, width: 454, height: 112, bpc: 8> <image: DeviceRGB, width: 253, height: 225, bpc: 8>",static/questions\q033_MCQ_p10.png
+34,MCQ,"Q.34  In a Lagrangian system, the position of a fluid particle in a flow is described as 𝑥 = 𝑥𝑜𝑑?−𝑘𝑡 and 𝑥? = 𝑥?𝑜𝑑?𝑘𝑡 where t is the time while 𝑥𝑜, 𝑥?𝑜, and k are constants. The flow is (A) unsteady and one-dimensional 
+(B) steady and two-dimensional 
+(C) steady and one-dimensional 
+(D) unsteady and two-dimensional ",static/questions\q034_MCQ_p11.png
+35,MCQ,"Q.35  The maximum reduction in cross-sectional area per pass ( R ) of a cold wire drawing process is (
+1)
+1
+,
+n
+R
+e
+
+   where n  represents the strain hardening coefficient. For the case of a perfectly plastic 
+material, R is (A) 0.865 
+(B) 0.826 
+(C)  0.777 
+(D)  0.632 ",static/questions\q035_MCQ_p11.png
+36,NAT,Q.36  The percentage scrap in a sheet metal blanking operation of a continuous strip of sheet metal as shown in the figure is _______ (correct to two decimal places).   ,static/questions\q036_NAT_p11.png
+37,NAT,"Q.37  An explicit forward Euler method is used to numerically integrate the differential equation dy
+dt y using a time step of 0.1. With the initial condition (0)
+1
+y
+ , the value of (1)
+y
+ computed by this method is ___________ (correct to two decimal places). ",static/questions\q037_NAT_p11.png
+38,NAT,"Q.38  ( )
+F s  is the Laplace transform of the function 2
+( )
+2
+t
+f t
+t e F(1)
+ is ________ (correct to two decimal places).  <image: DeviceRGB, width: 586, height: 146, bpc: 8>",static/questions\q038_NAT_p11.png
+40,NAT,"Q.40  A machine of mass 𝑚 = 200 kg is supported on two mounts, each of stiffness 𝑘 = 10 kN/m. The machine is subjected to an external force (in N)  𝐹(𝑡) = 50 cos 5𝑡. 
+Assuming only vertical translatory motion, the magnitude of the dynamic force (in N) 
+transmitted from each mount to the ground is ______ (correct to two decimal places).   ",static/questions\q040_NAT_p12.png
+41,NAT,"Q.41  A slider crank mechanism is shown in the figure. At some instant, the crank angle is 45o and a force of 40 N is acting towards the left on the slider. The length of the crank is 30 mm and 
+the connecting rod is 70 mm. Ignoring the effect of gravity, friction and inertial forces, the 
+magnitude of the crankshaft torque (in Nm) needed to keep the mechanism in equilibrium is 
+_________ (correct to two decimal places).    <image: DeviceRGB, width: 109, height: 239, bpc: 8> <image: DeviceRGB, width: 287, height: 93, bpc: 8>",static/questions\q041_NAT_p12.png
+42,NAT,"Q.42  A sprinkler shown in the figure rotates about its hinge point in a horizontal plane due to water flow discharged through its two exit nozzles.  The total flow rate Q through the sprinkler is 1 litre/sec and the cross-sectional area of each 
+exit nozzle is 1 cm2. Assuming equal flow rate through both arms and a frictionless hinge, 
+the steady state angular speed of rotation (in rad/s) of the sprinkler is ______ (correct to two 
+decimal places). ",static/questions\q042_NAT_p13.png
+44,NAT,"Q.44  A tank of volume 0.05 m3 contains a mixture of saturated water and saturated steam at 200C. The mass of the liquid present is 8 kg.  The entropy (in kJ/kg K) of the mixture is 
+___________ (correct to two decimal places). Property data for saturated steam and water are: 
+At 200C, 
+psat
+= 1.5538 MPa fv = 0.001157 m3/kg, 
+gv = 0.12736 m3/kg 4.1014
+sfg
+
+kJ/kg K, 
+fs 2.3309
+kJ/kg K  <image: DeviceRGB, width: 45, height: 16, bpc: 8> Q/2 <image: DeviceRGB, width: 46, height: 16, bpc: 8> Q/2 <image: DeviceRGB, width: 38, height: 16, bpc: 8> 10 cm <image: DeviceRGB, width: 38, height: 16, bpc: 8> 20 cm <image: DeviceRGB, width: 5, height: 34, bpc: 8>   Impermeable  
+wall m=2.0 kg h=0.15mm A=0.04 m2 V",static/questions\q044_NAT_p13.png
+45,NAT,"Q.45  Steam flows through a nozzle at a mass flow rate of 
+1.0
+m
+kg/s with a heat loss of 5 kW. The enthalpies at inlet and exit are 2500kJ/kg and 2350 kJ/kg, respectively. Assuming 
+negligible velocity at inlet (
+C1 0
+), the velocity (
+2
+C ) of steam (in m/s) at the nozzle exit is __________ (correct to two decimal places).  ",static/questions\q045_NAT_p14.png
+47,NAT,"Q.47  A plane slab of thickness L and thermal conductivity k is heated with a fluid on one side (P), and the other side (Q) is maintained at a constant temperature, TQ of 25C, as shown in the 
+figure. The fluid is at 45C and the surface heat transfer coefficient, h, is 
+10 W/mK
+2
+. The steady state temperature, TP, (in C) of the side which is exposed to the fluid is _______ 
+(correct to two decimal places).   <image: DeviceRGB, width: 340, height: 185, bpc: 8> <image: DeviceRGB, width: 281, height: 191, bpc: 8>",static/questions\q047_NAT_p14.png
+48,NAT,"Q.48  The true stress (σ) - true strain ( ) diagram of a strain hardening material is shown in figure. First, there is loading up to point A, i.e., up to stress of 500 MPa and strain of 0.5. Then from 
+point A, there is unloading up to point B, i.e., to stress of 100 MPa. Given that the Young’s 
+modulus E = 200 GPa, the natural strain at point B (
+B
+ ) is _________ (correct to three decimal places).   ",static/questions\q048_NAT_p15.png
+49,NAT,"Q.49  An orthogonal cutting operation is being carried out in which uncut thickness is 0.010 mm, cutting speed is 130 m/min, rake angle is 15 and width of cut is 6 mm. It is observed that 
+the chip thickness is 0.015 mm, the cutting force is 60 N and the thrust force is 25 N. The 
+ratio of friction energy to total energy is __________ (correct to two decimal places). ",static/questions\q049_NAT_p15.png
+50,NAT,Q.50  A bar is compressed to half of its original length. The magnitude of true strain produced in the deformed bar is _________________ (correct to two decimal places). ,static/questions\q050_NAT_p15.png
+52,NAT,"Q.52  Processing times (including setup times) and due dates for six jobs waiting to be processed at a work centre are given in the table. The average tardiness (in days) using shortest 
+ processing time rule is ___________ (correct to two decimal places).  Job 
+Processing time (days) 
+Due date (days) A 
+3 
+8 B 
+7 
+16 C 
+4 
+4 D 
+9 
+18 E 
+5 
+17 F 
+13 
+19 ",static/questions\q052_NAT_p16.png
+53,NAT,"Q.53  The schematic of an external drum rotating clockwise engaging with a short shoe is shown in the figure. The shoe is mounted at point Y on a rigid lever XYZ hinged at point X. A force 
+𝐹 = 100 𝑁 is applied at the free end of the lever as shown. Given that the coefficient of 
+friction between the shoe and the drum is 0.3, the braking torque (in Nm ) applied on the 
+drum is _______ (correct to two decimal places).  (All dimensions are in mm)   <image: DeviceRGB, width: 291, height: 308, bpc: 8>",static/questions\q053_NAT_p16.png
+54,NAT,"Q.54  Block P of mass 2 kg slides down the surface and has a speed 20 m/s at the lowest point, Q, where the local radius of curvature is 2 m as shown in the figure. Assuming  g = 10 m/s2, the 
+normal force (in N) at Q is _______ (correct to two decimal places).   ",static/questions\q054_NAT_p17.png
+55,NAT,"Q.55  An electrochemical machining (ECM) is to be used to cut a through hole into a 12 mm thick aluminum plate. The hole has a rectangular cross-section, 10 mm × 30 mm. The ECM 
+operation will be accomplished in 2 minutes, with efficiency of 90%. Assuming specific 
+removal rate for aluminum as 3.44 × 10-2 mm3/(A s), the current (in A)  required is 
+__________ (correct to two decimal places).  END OF THE QUESTION PAPER <image: DeviceRGB, width: 172, height: 156, bpc: 8>",static/questions\q055_NAT_p17.png

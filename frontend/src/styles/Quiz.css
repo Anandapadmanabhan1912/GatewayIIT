@@ -1,0 +1,212 @@
+/* Container */
+.quiz-container {
+  max-width: 800px;
+  margin: 20px auto;
+  padding: 20px;
+  background-color: #fafafa;
+  border-radius: 12px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  font-family: 'Segoe UI', sans-serif;
+  border-width: 1px;
+  border-style: solid;
+}
+
+/* Header */
+.quiz-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 16px;
+}
+
+.timer {
+  font-weight: bold;
+  color: #000000;
+  font-size: 16px;
+}
+
+.menu-toggle {
+  width: 40px;
+  font-size: 20px;
+  padding: 6px 10px;
+  border: none;
+  color: #212529;
+  background: #e9ecef;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background 0.2s;
+}
+
+.menu-toggle:hover {
+  background: #ced4da;
+}
+
+/* Question image */
+.question-image img {
+  width: 100%;
+  max-height: 350px;
+  object-fit: contain;
+  margin: 16px 0;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+}
+
+/* MCQ Options */
+.options {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 12px;
+  margin: 10px 0 16px;
+}
+
+.options button {
+  padding: 10px;
+  color:#212529;
+  font-size: 15px;
+  background-color: #f1f1f1;
+  border: 2px solid #ccc;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: 0.2s;
+}
+
+.options button:hover {
+  background-color: #e0e0e0;
+}
+
+.options .selected {
+  background-color: #d1e7dd;
+  border-color: #0f5132;
+  color: #0f5132;
+  font-weight: bold;
+}
+
+/* NAT Input */
+.nat-input {
+  margin: 16px 0 8px;
+}
+
+.nat-answer {
+  width: 100%;
+  padding: 10px;
+  font-size: 16px;
+  border-radius: 6px;
+  border: 2px solid #ccc;
+  box-sizing: border-box;
+}
+
+/* Clear Button */
+.clear-choice {
+  margin: 10px 0;
+  padding: 8px 14px;
+  background-color: #afe8ee;
+  color: #212529;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 14px;
+}
+
+.clear-choice:hover {
+  background-color: #00bbe0;
+  color:white;
+}
+
+/* Actions */
+.actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-top: 20px;
+}
+
+.actions button {
+  flex: 1;
+  padding: 10px;
+  font-size: 15px;
+  border: none;
+  border-radius: 6px;
+  background-color: #0d6efd;
+  color: white;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.actions button:hover {
+  background-color: #084298;
+}
+
+.actions button:disabled {
+  background-color: #cccccc;
+  cursor: not-allowed;
+}
+
+/* Palette Drawer */
+.palette-drawer {
+  position: absolute;
+  top: 20px;
+  right: -320px;
+  width: 280px;
+  background: white;
+  border-left: 2px solid #ddd;
+  box-shadow: -3px 0 8px rgba(0, 0, 0, 0.1);
+  transition: right 0.3s ease-in-out;
+  padding: 20px;
+  height: 80vh;
+  overflow-y: auto;
+  z-index: 1000;
+  border-radius: 10px 0 0 10px;
+}
+
+.palette-drawer.open {
+  right: 0;
+}
+
+.palette-drawer h3 {
+  margin-top: 0;
+}
+
+.palette-section {
+  margin-bottom: 18px;
+}
+
+.palette-section h4 {
+  margin-bottom: 8px;
+  font-size: 15px;
+  color: #555;
+}
+
+.palette {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+
+.palette button {
+  width: 36px;
+  height: 36px;
+  border: none;
+  border-radius: 6px;
+  font-weight: bold;
+  cursor: pointer;
+  color: white;
+  transition: 0.2s ease;
+}
+
+.palette button.active {
+  background-color: #0d6efd;
+}
+
+.palette button.answered {
+  background-color: #198754;
+}
+
+.palette button.marked {
+  background-color: #ffc107;
+  color: #000;
+}
+
+.palette button.unseen {
+  background-color: #6c757d;
+}
+
