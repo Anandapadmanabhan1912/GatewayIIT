@@ -140,6 +140,4 @@ http://localhost:3000
 
 ## Demo
 
-
-<iframe width="560" height="315" src="https://youtu.be/MkjAth8rsC0" frameborder="0" allowfullscreen></iframe>
-[![Demo Video](https://youtu.be/MkjAth8rsC0/0.jpg)]("https://youtu.be/MkjAth8rsC0" )
+[![Demo Video](https://img.youtube.com/vi/MkjAth8rsC0/0.jpg)](https://youtu.be/MkjAth8rsC0)
