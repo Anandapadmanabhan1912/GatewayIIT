@@ -140,4 +140,4 @@ http://localhost:3000
 
 ## Demo
 
-[![Demo Video](https://img.youtube.com/vi/MkjAth8rsC0/0.jpg)](https://youtu.be/MkjAth8rsC0)
+[![Demo Video]([https://img.youtube.com/vi/MkjAth8rsC0/0.jpg](https://upload.wikimedia.org/wikipedia/en/6/6b/Gate_2025_official_logo.png))](https://youtu.be/MkjAth8rsC0)
